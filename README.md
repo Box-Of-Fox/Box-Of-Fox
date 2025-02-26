@@ -8,7 +8,7 @@
 -->
 
 # Uh... hi
-<img src="" width=150 align=left>
+<img src="Fox.png" width=175 align=left>
 
 Not every day I get to see a new face around here <br>
 ... Or any faces at all I guess <br>
